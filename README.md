@@ -8,16 +8,17 @@ A versatile data enthusiast with a passion for problem-solving and innovation. W
 ### Coding Languages:
 | Language   |                                                                                                                | Language   |                                                                                                               |
 |-------------|--------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
-|Google Analytics (GA4)| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Google_Analytics_Logo.svg" width="20" height="20"> |Adobe Analytics| <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Corporate_Logo.png" width="20" height="20">|
-|Google Tag Manager (GTM)| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Google_Tag_Manager.svg" width="20" height="20"> |Apache Airflow| <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="20" height="20">|
-|AWS Glue| <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Amazon_Web_Services_Logo.svg" width="20" height="20"> |Google BigQuery| <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Cloud_Logo.svg" width="20" height="20">|
-|Snowflake| <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Snowflake_Inc.svg" width="20" height="20"> |Amazon Redshift| <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Amazon_Redshift_Logo.svg" width="20" height="20">|
-|Tableau| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="20" height="20"> |Power BI| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20" height="20">|
-|Looker (Google Data Studio)| <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Data_Studio_Logo.png" width="20" height="20"> |SQL| <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="20" height="20">|
-|Python| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20"> |R| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="20" height="20">|
-|Google Ads & Facebook Ads Manager| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Google_Ads_logo.svg" width="20" height="20"> |Mixpanel| <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Mixpanel_logo.svg" width="20" height="20">|
-|Amplitude| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Amplitude_Analytics_Logo.png" width="20" height="20"> |Google Optimize (or Optimizely)| <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Optimizely_logo.png" width="20" height="20">|
-|Google Cloud Platform (GCP)| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="20" height="20"> |Amazon Web Services (AWS)| <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="20" height="20">|
+| Google Analytics (GA4) | ![GA4](https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg) | Adobe Analytics | ![Adobe](https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Corporate_Logo.png) |
+| Google Tag Manager | ![GTM](https://www.vectorlogo.zone/logos/google_tagmanager/google_tagmanager-icon.svg) | Apache Airflow | ![Airflow](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png) |
+| AWS Glue | ![AWS Glue](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg) | Google BigQuery | ![BigQuery](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) |
+| Snowflake | ![Snowflake](https://www.svgrepo.com/show/354427/snowflake-icon.svg) | Amazon Redshift | ![Redshift](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg) |
+| Tableau | ![Tableau](https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg) | Power BI | ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) |
+| Looker (Google Data Studio) | ![Looker](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Looker-logo.svg/2560px-Looker-logo.svg.png) | SQL | ![SQL](https://www.svgrepo.com/show/331760/sql-database-generic.svg) |
+| Python | ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg) | R | ![R](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg) |
+| Google Ads & Facebook Ads Manager | ![Google Ads](https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg) | Mixpanel | ![Mixpanel](https://www.vectorlogo.zone/logos/mixpanel/mixpanel-icon.svg) |
+| Amplitude | ![Amplitude](https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg) | Google Optimize (Optimizely) | ![Optimizely](https://upload.wikimedia.org/wikipedia/en/5/5d/Optimizely_logo.png) |
+| Google Cloud Platform (GCP) | ![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) | Amazon Web Services (AWS) | ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg) |
+
 
 ### Tools & Technologies:
 ## 💼 Work Experience

@@ -6,7 +6,7 @@
 A versatile data enthusiast with a passion for problem-solving and innovation. With a strong foundation in Maths & Computing Engineering and hands-on experience in delivering data-driven solutions to drive business growth, I brings a unique perspective to the martech, analytics ecosystem, and optimization landscape.
 ## Skills & Expertise
 ### Coding Languages:
-| Language   |                                                                                                                | Language   |                                                                                                               |
+| Platform   |                                                                                                                | Platform   |                                                                                                               |
 |-------------|--------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
 | Google Analytics (GA4) | <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="20" height="20"> | Adobe Analytics | <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Corporate_Logo.png" width="20" height="20"> |
 | Google Tag Manager | <img src="https://www.vectorlogo.zone/logos/google_tagmanager/google_tagmanager-icon.svg" width="20" height="20"> | Apache Airflow | <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="20" height="20"> |

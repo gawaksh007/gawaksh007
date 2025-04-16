@@ -4,25 +4,6 @@
 
 ## About Me
 A versatile data enthusiast with a passion for problem-solving and innovation. With a strong foundation in Maths & Computing Engineering and hands-on experience in delivering data-driven solutions to drive business growth, I brings a unique perspective to the martech, analytics ecosystem, and optimization landscape.
-## Skills & Expertise
-### Coding Languages:
-| Platform   |                                                                                                                | Platform   |                                                                                                               |
-|-------------|--------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
-| Google Analytics (GA4) | <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="20" height="20"> | Adobe Analytics | <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Corporate_Logo.png" width="20" height="20"> |
-| Google Tag Manager | <img src="https://www.vectorlogo.zone/logos/google_tagmanager/google_tagmanager-icon.svg" width="20" height="20"> | Apache Airflow | <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="20" height="20"> |
-| AWS Glue | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="20" height="20"> | Google BigQuery | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="20" height="20"> |
-| Snowflake | <img src="https://www.svgrepo.com/show/354427/snowflake-icon.svg" width="20" height="20"> | Amazon Redshift | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="20" height="20"> |
-| Tableau | <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="20" height="20"> | Power BI | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20" height="20"> |
-| Looker (Google Data Studio) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Looker-logo.svg/2560px-Looker-logo.svg.png" width="20" height="20"> | SQL | <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="20" height="20"> |
-| Python | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="20" height="20"> | R | <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="20" height="20"> |
-| Google Ads & Facebook Ads Manager | <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" width="20" height="20"> | Mixpanel | <img src="https://www.vectorlogo.zone/logos/mixpanel/mixpanel-icon.svg" width="20" height="20"> |
-| Amplitude | <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" width="20" height="20"> | Google Optimize (Optimizely) | <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Optimizely_logo.png" width="20" height="20"> |
-| Google Cloud Platform (GCP) | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="20" height="20"> | Amazon Web Services (AWS) | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="20" height="20"> |
-
-
-
-### Tools & Technologies:
-## Work Experience
 ## Let's Connect!
 Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
 

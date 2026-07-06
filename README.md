@@ -1,9 +1,5 @@
-**"As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow"**
-
-**"Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it"**
-
 ## About Me
-A versatile data enthusiast with a passion for problem-solving and innovation. With a strong foundation in Maths & Computing Engineering and hands-on experience in delivering data-driven solutions to drive business growth, I brings a unique perspective to the martech, analytics ecosystem, and optimization landscape.
+A versatile data enthusiast with a passion for problem-solving and innovation. With a strong foundation in Maths & Computing Engineering and hands-on experience in delivering data-driven solutions to drive business growth, I bring a unique perspective to the martech, analytics ecosystem, and optimization landscape.
 ## Let's Connect!
 Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
 
